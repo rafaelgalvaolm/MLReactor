@@ -1351,6 +1351,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.ML >= 3.0.0-preview.23266.6",
+      "Microsoft.ML.DataView >= 3.0.0-preview.23266.6",
       "Microsoft.ML.FastTree >= 3.0.0-preview.23266.6",
       "Plotly.NET >= 3.0.1"
     ]
@@ -1400,6 +1401,10 @@
         "targetAlias": "net8.0",
         "dependencies": {
           "Microsoft.ML": {
+            "target": "Package",
+            "version": "[3.0.0-preview.23266.6, )"
+          },
+          "Microsoft.ML.DataView": {
             "target": "Package",
             "version": "[3.0.0-preview.23266.6, )"
           },

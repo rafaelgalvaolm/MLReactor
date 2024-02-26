@@ -1,6 +1,12 @@
-﻿@{
-    ViewData["Title"] = "Privacy Policy";
+﻿@model MLNetReactor.MachineLearning.Models.SalaryPrediction
+
+@{
+    ViewData["Title"] = "Previsão Salarial";
 }
 <h1>@ViewData["Title"]</h1>
 
-<p>Use this page to detail your site's privacy policy.</p>
+<h2>previsão de resultados</h2>
+
+<div>
+    <p>Predicted Salary: @Model.Prediction</p>
+</div>

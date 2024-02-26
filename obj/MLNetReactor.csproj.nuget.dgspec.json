@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[3.0.0-preview.23266.6, )"
             },
+            "Microsoft.ML.DataView": {
+              "target": "Package",
+              "version": "[3.0.0-preview.23266.6, )"
+            },
             "Microsoft.ML.FastTree": {
               "target": "Package",
               "version": "[3.0.0-preview.23266.6, )"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MLNetReactor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13e47ad6707257c882b1f5c09433802f0451d727")]
 [assembly: System.Reflection.AssemblyProductAttribute("MLNetReactor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MLNetReactor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,10 @@
+.vs/
+.vscode/
+*.suo
+*.user
+*.sln.docstates
+*.sln.ide
+*.sln.ide-shm
+*.sln.ide-wal
+*.sln.ide-wal
+
